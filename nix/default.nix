@@ -5,8 +5,8 @@ stdenv.mkDerivation (finalAttrs: {
   src = nixpkgs.fetchFromGitHub {
     owner = "bjsemrad";
     repo = "bibata-modern-classic-hyprcursor";
-    rev = "d2c0e6802f0ed1e7c638bb27b5aa8587b578d083";
-    sha256 = "sha256-ArUX5qlqAXUqcRqHz4QxXy3KgkfasTPA/Qwf6D2kV0U=";
+    rev = "993b44ef9b80643e18941c3ff1363bd3651dd5e5";
+    sha256 = "11s78fy4bmjhajjj0ldjv7yi9cim5ymp5mrlkricm5vgdxsj03y9";
   };
 
   installPhase = ''
