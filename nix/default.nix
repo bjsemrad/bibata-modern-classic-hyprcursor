@@ -6,7 +6,7 @@ stdenv.mkDerivation (finalAttrs: {
     owner = "bjsemrad";
     repo = "bibata-modern-classic-hyprcursor";
     rev = "993b44ef9b80643e18941c3ff1363bd3651dd5e5";
-    sha256 = "11s78fy4bmjhajjj0ldjv7yi9cim5ymp5mrlkricm5vgdxsj03y9";
+    sha256 = "sha256-73h+mQuKQ5++mdV1evcJCgWq7nsD0kH2HIUf7iK20sk=";
   };
 
   installPhase = ''
